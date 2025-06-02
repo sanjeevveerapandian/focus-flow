@@ -20,26 +20,9 @@ I created **FocusFlow** to improve my consistency and help build strong daily ha
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling  
 - 🧩 [shadcn/ui](https://ui.shadcn.dev/) — Clean and accessible UI components  
 
-**Backend:**
-
-- 🌐 [Express.js](https://expressjs.com/) — RESTful API server  
-- 🧠 [MongoDB](https://www.mongodb.com/) + [Mongoose](https://mongoosejs.com/) — Flexible NoSQL database  
-- 🔒 Environment variables for secure credentials  
-
-**Deployment:**
-
-- **Frontend**: [Vercel](https://vercel.com/)  
-- **Backend**: [Render](https://render.com/) / Railway / Heroku (your choice)
-
 ---
-
-## 📷 Live
-
-![Live Link](https://focus-flow-nu-orpin.vercel.app/)
-
-_Add a screenshot or demo GIF here_
-
----
+🌍 Live Links
+Frontend (Vercel): https://focus-flow-nu-orpin.vercel.app
 
 ## 📦 Getting Started
 
