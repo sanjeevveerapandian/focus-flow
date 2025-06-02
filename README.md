@@ -33,9 +33,9 @@ I created **FocusFlow** to improve my consistency and help build strong daily ha
 
 ---
 
-## 📷 Preview
+## 📷 Live
 
-![App Preview](preview-image-url)
+![Live Link](https://focus-flow-nu-orpin.vercel.app/)
 
 _Add a screenshot or demo GIF here_
 
